@@ -1,4 +1,4 @@
 # aws.ai   
 
 
-https://aws.ai
+http://aws.ai
