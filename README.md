@@ -12,7 +12,14 @@ https://aws.amazon.com/machine-learning/elastic-inference/
 https://www.ithome.com.tw/news/127669      
 
 
+## Ground Truth
+https://aws.amazon.com/sagemaker/groundtruth/
+
+
+## DeepRacer
+https://aws.amazon.com/deepracer  
+
 ## aws deeplens
-https://aws.amazon.com/deeplens/
+https://aws.amazon.com/deeplens/    
 
 
