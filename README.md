@@ -4,6 +4,8 @@
 http://aws.ai
 
 
+![aws-sm](_image/aws-sm.jpg)
+
 
 ## Amazon Elastic Inference
 https://aws.amazon.com/machine-learning/elastic-inference/
