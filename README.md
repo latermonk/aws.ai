@@ -25,3 +25,11 @@ https://aws.amazon.com/deepracer
 https://aws.amazon.com/deeplens/    
 
 
+
+
+#  Course:
+https://github.com/noahgift/aws-ml-guide     
+
+https://noahgift.github.io/aws-ml-guide/intro     
+
+https://www.oreilly.com/library/view/aws-certified-machine/9780135556597/      
